@@ -1,7 +1,9 @@
 ### Setup: 
 ```bash
 git clone "https://github.com/therealtgd/uni_commands.git"
-edit uni.bat
+
+edit uni.bat - Change folder paths and app that you use for that subject
+
 copy uni.bat to System32 folder
 ```
 
